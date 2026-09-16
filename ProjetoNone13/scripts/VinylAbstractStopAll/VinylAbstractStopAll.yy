@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylAbstractStopAll",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylAbstractStopAll",
+  "parent":{
+    "name":"Miscellaneous",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/Miscellaneous.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

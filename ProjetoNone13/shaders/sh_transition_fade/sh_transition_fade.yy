@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_transition_fade",
+  "name":"sh_transition_fade",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Transitions/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

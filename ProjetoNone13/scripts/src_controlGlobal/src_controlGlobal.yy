@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"src_controlGlobal",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"src_controlGlobal",
+  "parent":{
+    "name":"[KIT]System",
+    "path":"folders/[KIT]Menus/[KIT]System.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

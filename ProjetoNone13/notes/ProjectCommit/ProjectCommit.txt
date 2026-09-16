@@ -1,0 +1,56 @@
+Documentation of the actual stats the project
+version: 1.0.0
+
+Dia: 01 (24/07/2026)
+Feito:
+
+- Reutilizei a base usado para o Ávoa norte
+- Arrumei os diretórios (pastas)
+- Organizei os conteúdos
+- Vou fazer 3 tipos de menus, 100% modificáveis
+- Alinhei a tela inicial
+- Iniciei documentação
+
+falta:
+
+- Alinha os textos todos
+- Melhorar qaulidade da imagem
+- Adcionar animações
+
+========================================================================================================================================================
+
+Dia 02 (25/07/2026)
+feito:
+
+- Organizei os arquivos
+- Criação de objetos para controle e visualização
+- Animações interessantes
+- Pré organização do programa de música e sons
+- Criação de artes versáteis
+- Adcionei o pacote "Scribble" para animações
+- Adcionei o pacote "Vinyl" para musica/sons
+
+falta:
+
+- Adcionar os sons/musicas
+- Inacabado os assets de linguagem e save data
+- Aprender a mexer no "Vinyl"
+- Permitir poder funcionar com o mouse e as teclas
+
+========================================================================================================================================================
+
+Dia 03 (26/07/2026)
+feito:
+
+- Arrumei as animações
+- Arrumei os textos de forma mais legivvel
+- Adcionei sons/musicas
+- Addcionei em algumas etapas o "Vinyl"
+
+falta:
+
+- Inacabado os assets de linguagem e save data
+- Permitir poder funcionar com o mouse e as teclas
+- Terminar de modularizar e organizar o KIT
+
+========================================================================================================================================================

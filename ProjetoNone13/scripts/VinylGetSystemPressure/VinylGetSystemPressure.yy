@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylGetSystemPressure",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylGetSystemPressure",
+  "parent":{
+    "name":"Miscellaneous",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/Miscellaneous.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

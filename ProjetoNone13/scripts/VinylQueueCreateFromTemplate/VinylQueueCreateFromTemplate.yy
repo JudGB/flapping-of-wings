@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylQueueCreateFromTemplate",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylQueueCreateFromTemplate",
+  "parent":{
+    "name":"Queues",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/Queues.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

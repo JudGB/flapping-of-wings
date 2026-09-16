@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylResume",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylResume",
+  "parent":{
+    "name":"Deprecated",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals)/Deprecated.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

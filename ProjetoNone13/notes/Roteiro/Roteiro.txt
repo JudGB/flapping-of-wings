@@ -1,0 +1,278 @@
+                                              Texto diálogo
+											  
+DIALOGO 01:
+	[Music 01 e 02 calma]
+	Porque o pai guarda essas coisas…
+	Agora sou eu que vou ter que limpar
+	Bom começar por essa caixa, mas…
+	o que é essa coisa, ein?
+	Será que dou uma olhada??
+ 
+-Ponto de decisão-
+
+Nâo:		obs: a arte se mantém na caixa fechada e dps tela preta com fim
+Nammmmmmmmm…
+Melhor não
+FIM
+
+Sim:		obs: a arte é da caixa fechada, mas dps de uma olhada vai para ela aberta
+Ummmmmmmmm…
+Só uma olhada não mata
+
+DIALOGO 02:
+	Olha muitas coisas velhas
+	o que é isso?
+	“dis..” “dizisete” “disguete” 
+	ISSO
+	“Disquete”!
+	Como usa?
+	[/Musica 01 e 02]
+
+DIALOGO 03:	obs: Tela preta e só mostra o pc quando ele diz achei
+	Bom nele tá escrito…
+	‘Insira em seu IDM 3000”
+	Eu vi algo com esse nome por aqui cadê
+	Achei
+	Agora só inserir e…
+	PLAY!
+
+                                                Texto jogo
+												
+versão 01:
+	-Olá novo jogador, seja bem-vindo a experiência bater “d’as asas”! (Click enter)
+	-Olaaaaaa novo jogador, eu sou a experiência, seja bem vindo ao nosso chat
+	-Fico muito feliz em podermos conversar, [stop music][speed 0.5] faz tempo que não vejo ngm
+	- Mas não importa, eu quero saber mais de você, então….
+	- Responda com sinceridade, por que não pode voltar atrás…
+
+-Você me conhece??
+[sim] [nãoX]
+-Tudo bem, não tem problema, é que você era familiar sabe…
+Questão 02
+{
+	-Mas enfim me fala mais de você, gosta de cachorros?
+	[SimX] [Não]
+	-Sério????? QUE LEGALLLLLLL
+	-EU TAMBÉMMMM e sobre amigos
+
+	(+1 ponto)
+
+	-Mas me fala mais de você, gosta de cachorros?
+	[Sim] [NãoX]
+	-Ou, Ah entendo, bom eu, eu, eu  também não, mas e amigos…
+
+	(-1 ponto)
+
+}
+
+Questão 03
+{
+	-Você tem amigos?
+	[SimX] [Não]
+	-Eu também tenho amigos, na verdade um amigo, mas ele….
+	-Nada, enfim que bommm, ter amigos é muito bom, conversas,
+	-brincar, escond… brincar de esconde esconde, isso que eu quero dizer, mas…
+
+	(-1 ponto)
+
+	-Você tem amigos?
+	[Sim] [NãoX]
+	-Ou SÉRIO???? Isso é muito triste, eu tenho um, mas eu te entendo…
+	-te entendo bem…
+	-Digo eu eu já fiquei um tempo sem amigos também sabe, isso que eu
+					quero dizer sabe
+	-Mas enfim…
+
+	(+1 ponto)
+
+}
+
+Questão 04:
+{
+	-Você pratica esportes?
+	[SimX] [Não]
+	-Que bommmm, isso é muito importante, praticar exercícios é muito importante…
+
+	(+1 ponto)
+
+	-Você pratica esportes?
+	[Sim] [NãoX]
+	-Ou, entendo, eu também não sou fã disso também, vai que eu me machuque né, faz sentido
+
+	(-1 ponto)
+
+}
+
+Dialogo 04:
+	-Enfim isso é só detalhe, praticar ou não praticar, vai de cada um, não é possível dizer quem
+	é você simplesmente por praticar ou não, mas…
+	-Algo muito importante é se você cumpre com sua palavra, se você promete e cumpre
+	-Na sociedade hoje em dia se encontra em falta isso..
+
+Questão 05:
+{
+	-Por isso, você gosta de mentir?
+	[SimX] [Não]
+	-Nossa mas isso é muito ruim, você pode acabar com alguém assim, com uma
+	amizade…
+
+	(-9999 ponto)
+
+	-Por isso, você gosta de mentir?
+	[Sim] [NãoX]
+	-ÓTIMO, isso é muito importante, sabia que você não era como as outras pessoas…
+
+	(+2 ponto)
+
+}
+
+Pontos >= 2 {Fim 01}
+{
+	-Você é engraçado, foi muito bom nossa conversa, espero que volte a falar comigo
+	-Se eu já te conhecesse antes, seria tudo diferente…
+	-Espero que volte e diga SIM para mim.
+ 
+}
+else {Fim 02}
+{
+
+	-Você é meio diferente, um pouco estranho, mas eu não conversava com ninguém a tanto tempo
+	-Fico feliz por falar comigo.
+
+}
+
+
+versão 02-1:
+	-Olá novo jogador, seja bem-vindo a experiência bater “d’as asas”! (Click enter)
+	-Olaaaaaa novo jogador, eu sou a experiência, seja bem vindo ao nosso chat
+	-Fico muito feliz em podermos conversar, [stop music][speed 0.5] faz tempo que não vejo ngm
+	- Mas não importa, eu quero saber mais de você, então….
+	- Responda com sinceridade, por que não pode voltar atrás…
+-Você me conhece??
+[simX] [não]
+
+if {Conhecido = false}
+{
+	- Nossa eu não tava me…
+	-Pera ai seu…
+	-Espertinho, eu não te conheço, e se não te conheço você não me conhece, 
+	mas sei que é mentiroso e não gosto de mentirosos VÁ EMBORA AGORA
+	(O jogo reconhece que é um mentiroso e por isso trava para que não 
+	jogue mais porque o jogo não quer mentirosos)
+
+}
+
+========== INICIA NOVAMENTE =====================
+
+-Olá nov…
+….
+….
+VOCÊ DE NOVO AQUI
+Eu falei 
+SEM MENTIROSOS
+fecha o game
+
+versão 02-2:
+	-Olá novo jogador, seja bem-vindo a experiência bater “d’as asas”! (Click enter)
+	-Olaaaaaa novo jogador, eu sou a experiência, seja bem vindo ao nosso chat
+	-Fico muito feliz em podermos conversar
+	- Então….
+	- Responda com sinceridade
+-Você me conhece??
+[simX] [não]
+
+if {Conhecido = True}
+
+-Olha é você, eu me lembro de você, você voltou que bom que voltou, tão diferentes…
+-Sabia que voltaria, estava com tanta saudade
+
+
+Questão 02: 
+{
+
+	-Você sentiu saudades também?
+	[Sim] [Sim] [SIMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+	QUE BOM QUE SENTIU< EU TAMBÈM SENTI MUITA MUITA MUITA MUITA
+
+}
+
+Dialogo 05:
+	-Desculpa eu me alterei, ninguém nunca tinha voltado…
+	-Não importa, nada mais importa, nele ele importa…
+	-Agora que somos amigos próximos, posso te fazer perguntas de amigos próximos como
+
+Questão 03:
+{
+
+	-Você tem algum parceiro(a)?
+	[SimX] [Não]
+	--
+	--- 
+	.-.
+	.-.
+	.-
+	-Tudo bem, que bom que bom, próxima pergunta….
+
+	-Você tem algum parceiro(a)?
+	[Sim] [NãoX]
+	-SÈRIO? QUE ÓTIMO, digo eu também não, então somos iguais, amigos juntos né?
+	-Talvez sem alguém, você não me troque, como…
+	-NÃO IMPORTA, PRÓXIMA
+
+}
+
+Dialogo 06:
+	-Alguém mora com você…
+	-Minha nossa, desculpe essa pergunta não tem sentido né, muito estranha e pessoal
+	-ehhh, desculpa perguntar isso, efim
+	-Por que seu pa…
+	-Meu Deus estou muito velho hahaha
+	-Deu pani hahahaha
+	
+Questões 04:
+{
+
+	-Você gosta de trocar coisas quando ficam velhas?
+	[sim] [sim] [simmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmm
+	-Sabia você é igual a ele, eu sabia
+	- Você é igualzinho a ele eu sabia
+	-Pensei que seria diferente
+	-Não posso confiar em você
+	-Não posso confiar em ninguém
+	-Só porque ele encontrou alguém melhor, alguém “REAL” né
+	-Não posso aceitar não posso não posso não posso
+	-TROCADO
+	-Não é {nome_pc}, sim eu sei seu nome
+	-Ou pelo menos o nome do seu pczinho que me prende
+	-Não vou deixar você fugir como ele
+	-Somos amigos, lembra????
+	-Você sente muita saudade de mim
+	-Você disse, lembra? , nós somos amigos e sentimos saudade, por isso…
+	-por isso…
+	-....
+	-Eu vou atrás de você…[stop music]
+	-Ficaremos juntos, você escolheu estar comigo, cada escolha, você quer ficar comigo né?
+	-TENHO CERTEZA
+	-não importa por…
+	-que…
+	-eu..
+	-te..
+	A C H E …[sons altos de toque na porta 3d alto]
+}
+
+
+mensagem no final:
+	Olá eu me chamo juju, e este é meu primeiro projeto para o none, 
+nunca tinha feito algo assim então espero que goste, não deu de fazer 
+como eu queria, por conta do tempo, e outras adversidades, mas me empenhei 
+bastante, principalmente na história, a ideia por traz é o efeito em cadeia, 
+você escolheu conversar com ele e principalmente escolheu voltar para falar 
+com ele, uma pequena escolha, mas que levou a grandes consequências, tudo 
+por trás de D’as Asas é algo construído para levar a esse final, gostaria 
+de ter mais tempo e gente para fazer algo mais polido, mas eu gostei do 
+resultado, alguém que ficou mais velho e agora adulto com filho, deixou 
+essa experiência de lado para viver, mas ela nunca esqueceu…
+
+
+

@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"VinylFallbackSoundIDE",
+  "audioGroupId":{
+    "name":"audiogroup_musica",
+    "path":"audiogroups/audiogroup_musica",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":0.58609974,
+  "exportDir":"",
+  "name":"VinylFallbackSoundIDE",
+  "parent":{
+    "name":"(Internals)",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals).yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"VinylFallbackSoundIDE.wav",
+  "volume":1.0,
+}

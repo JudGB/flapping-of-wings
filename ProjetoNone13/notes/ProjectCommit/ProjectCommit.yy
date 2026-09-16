@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"ProjectCommit",
+  "name":"ProjectCommit",
+  "parent":{
+    "name":"[KIT]Documentation",
+    "path":"folders/[KIT]Menus/[KIT]Documentation.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

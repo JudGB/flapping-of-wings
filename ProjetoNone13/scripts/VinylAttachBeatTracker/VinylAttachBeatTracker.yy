@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylAttachBeatTracker",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylAttachBeatTracker",
+  "parent":{
+    "name":"BPM",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/BPM.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

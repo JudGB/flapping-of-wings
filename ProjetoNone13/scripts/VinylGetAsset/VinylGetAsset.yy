@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"VinylGetAsset",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"VinylGetAsset",
+  "parent":{
+    "name":"Miscellaneous",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/Miscellaneous.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_Dialogue_Draw",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_Dialogue_Draw",
+  "parent":{
+    "name":"Systems",
+    "path":"folders/Main/Systems.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scribble_font_exists",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scribble_font_exists",
+  "parent":{
+    "name":"Fonts",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Text/Scribble/Fonts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__VinylClassPatternBlend",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__VinylClassPatternBlend",
+  "parent":{
+    "name":"Patterns",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals)/Classes/Patterns.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_QuestText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_QuestText",
+  "parent":{
+    "name":"Texts",
+    "path":"folders/Main/Systems/Texts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

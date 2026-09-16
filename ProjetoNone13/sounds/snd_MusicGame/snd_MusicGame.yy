@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_MusicGame",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "channelFormat":0,
+  "compression":0,
+  "compressionQuality":4,
+  "conversionMode":0,
+  "duration":122.04408,
+  "exportDir":"",
+  "name":"snd_MusicGame",
+  "parent":{
+    "name":"[KIT]Sounds",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_MusicGame.mp3",
+  "volume":0.77,
+}

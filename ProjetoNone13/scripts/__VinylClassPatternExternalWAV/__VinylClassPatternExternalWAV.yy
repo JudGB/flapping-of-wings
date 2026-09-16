@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__VinylClassPatternExternalWAV",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__VinylClassPatternExternalWAV",
+  "parent":{
+    "name":"External",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals)/Classes/Patterns/External.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

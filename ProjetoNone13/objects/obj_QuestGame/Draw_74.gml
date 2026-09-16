@@ -1,0 +1,1 @@
+scr_QuestText(_QI01.Q[0], false, fa_center, display_get_gui_width()/2 - 35, 560, typist, vk_enter)

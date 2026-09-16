@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__VinylIRandom",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__VinylIRandom",
+  "parent":{
+    "name":"PRNG",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals)/PRNG.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

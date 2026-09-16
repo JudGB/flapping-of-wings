@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"__VinylClassBeatTracker",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"__VinylClassBeatTracker",
+  "parent":{
+    "name":"Classes",
+    "path":"folders/[KIT]Menus/[KIT]Assets/[KIT]Sounds/Vinyl/(Internals)/Classes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

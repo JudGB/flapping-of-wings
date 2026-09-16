@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_MangerAud",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_MangerAud",
+  "parent":{
+    "name":"Audios",
+    "path":"folders/[KIT]Menus/[KIT]Manegers/Audios.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

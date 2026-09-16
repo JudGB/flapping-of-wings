@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_transition_set_color",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_transition_set_color",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Transitions/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

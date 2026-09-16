@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"Roteiro",
+  "name":"Roteiro",
+  "parent":{
+    "name":"Documentation",
+    "path":"folders/Main/Documentation.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

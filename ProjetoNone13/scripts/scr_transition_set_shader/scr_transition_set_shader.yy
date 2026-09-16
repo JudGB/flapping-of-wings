@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_transition_set_shader",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_transition_set_shader",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Transitions/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

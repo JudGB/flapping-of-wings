@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_AlertText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_AlertText",
+  "parent":{
+    "name":"Texts",
+    "path":"folders/Main/Systems/Texts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
